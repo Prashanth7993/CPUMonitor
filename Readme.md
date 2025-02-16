@@ -90,8 +90,3 @@ python -c "while True: pass"
 ---
 ## Contribution
 Feel free to submit issues or create pull requests to improve the project.
-
----
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
